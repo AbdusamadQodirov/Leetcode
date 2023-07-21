@@ -8,7 +8,7 @@ In this repository, I keep the solutions of the examples I worked on in https://
 #### In this repository, I have uploaded the answers in a separate file for each example along with the questions.
 #### I recommend to see the first question and then the solution
 ## For example:
-##### Question.      Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+### Question.      Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
 Symbol       Value
 I             1
@@ -49,7 +49,7 @@ Input: s = "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
-##### Solution.
+### Solution.
 ```
 class Solution:
     def romanToInt(self, s: str) -> int:
