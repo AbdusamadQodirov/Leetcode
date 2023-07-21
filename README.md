@@ -1,12 +1,12 @@
 # Leetcode
 ## Uzbek
 Bu repositoryda men https://leetcode.com/ da ishlagan misollarim yechimini saqlab boraman.
-#### Bu repositoryda men har bir bir misol uchun alohida faylda javoblarni yukladim savollari bilan birgalikda.
-#### Birinchi savolni undan keyin yechimni ko'rishni maslahat beraman
+Bu repositoryda men har bir bir misol uchun alohida faylda javoblarni yukladim savollari bilan birgalikda.
+Birinchi savolni undan keyin yechimni ko'rishni maslahat beraman
 ## English
 In this repository, I keep the solutions of the examples I worked on in https://leetcode.com/ site
-#### In this repository, I have uploaded the answers in a separate file for each example along with the questions.
-#### I recommend to see the first question and then the solution
+In this repository, I have uploaded the answers in a separate file for each example along with the questions.
+I recommend to see the first question and then the solution
 ## For example:
 ### Question.      Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
