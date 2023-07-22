@@ -3,6 +3,7 @@
 Bu repositoryda men https://leetcode.com/ da ishlagan misollarim yechimini saqlab boraman.
 Bu repositoryda men har bir bir misol uchun alohida faylda javoblarni yukladim savollari bilan birgalikda.
 Birinchi savolni undan keyin yechimni ko'rishni maslahat beraman
+Leetcode saytida amazon, google va boshqa katta kompaniyalarga kirishga tayyorgarlik savollari ham mavjud.
 ## English
 In this repository, I keep the solutions of the examples I worked on in https://leetcode.com/ site
 In this repository, I have uploaded the answers in a separate file for each example along with the questions.
