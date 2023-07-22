@@ -4,10 +4,13 @@ Bu repositoryda men https://leetcode.com/ da ishlagan misollarim yechimini saqla
 Bu repositoryda men har bir bir misol uchun alohida faylda javoblarni yukladim savollari bilan birgalikda.
 Birinchi savolni undan keyin yechimni ko'rishni maslahat beraman
 Leetcode saytida amazon, google va boshqa katta kompaniyalarga kirishga tayyorgarlik savollari ham mavjud.
+Men leetcode yechilgan masalalarni saralash uchun 3 ta fayl yaratdim ya'ni oson, o'rtacha va qiyin.
 ## English
 In this repository, I keep the solutions of the examples I worked on in https://leetcode.com/ site
 In this repository, I have uploaded the answers in a separate file for each example along with the questions.
 I recommend to see the first question and then the solution
+Leetcode also has entrance preparation questions for amazon, google and other big companies.
+I have created 3 files to sort leetcode solved problems ie easy, medium and hard.
 ## For example:
 ### Question.      Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
 
